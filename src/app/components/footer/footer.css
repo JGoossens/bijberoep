@@ -1,0 +1,10 @@
+footer {
+  background: var(--dark-lighter);
+  padding: 3rem 0;
+  text-align: center;
+  border-top: 1px solid rgba(255, 107, 53, 0.2);
+}
+
+footer p {
+  color: var(--text-muted);
+}
